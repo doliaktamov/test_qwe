@@ -1,3 +1,4 @@
-hello = "Hello World!"
+hello = "Hello" 
+world = "World!"
 
-print(hello)
+print(F'{hello} {world}')
