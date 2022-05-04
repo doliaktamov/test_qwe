@@ -1,0 +1,3 @@
+deg hello():
+	print("Hello")
+	
